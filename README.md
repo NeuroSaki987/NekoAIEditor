@@ -60,7 +60,7 @@ Open http://127.0.0.1:7860
 - Linux/macOS: `bash repair_gradio_stack.sh`
 
 ## Star History
-https://api.star-history.com/svg?repos=yourname/NekoAIEditor&type=Date
+![Star History Chart](https://api.star-history.com/svg?repos=NeuroSaki987/NekoAIEditor&type=Date)
 
 
 
